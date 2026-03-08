@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+`<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -22,9 +22,42 @@
             <li>Thời gian: 5 Ngày 4 Đêm</li>
         </ul>
         <h1><u><font face="Time news roman" size="6" color="orange">MÔ TẢ</font></u></h1>
-        <p><i>Du lịchk Okela gửi đến Quý khách trình Tour du lịch Lào 5N4Đ Bay tahnwgr TP Hồ Chí Minh - Vientiane - Luang Prabang - Văng Viêng</i></p>
-        <p></p>
-        
-        
-        
-    </body>
+        <p><i>Du lịchk Okela gửi đến Quý khách trình Tour du lịch Lào 5N4Đ Bay thẳng TP Hồ Chí Minh - Vientiane - Luang Prabang - Văng Viêng</i></p>
+            <h2>Quý khách có thể xem thêm trên link sau:<a href="https://dulichokela.com">dulichokela.com</h2>
+    <hr>
+    <h2><p>ĐÁNH GIÁ</p></h2>
+    <table border="1" cellspacing="0">
+      <tr>
+        <th width="150"><p>Tiêu chí</p></th>
+        <th width="200"><p>Nội dung đánh giá</p></th>
+        <th width="200"><p>Điểm thành phần</p></th>
+        <th width="100"><p>Tổng điểm</p></th>
+      </tr>
+      <tr>
+        <td border="1" rowspan="3" width="200" height="150"><p>Quá trình</p></td>
+        <td>Chuyên cần</td>
+        <td></td>
+        <td border="1" rowspan="3"></td>
+      </tr>
+      <tr>
+        <td>Thái độ</td>
+        <td></td> 
+      </tr>
+        <td>Kỹ năng</td>
+        <td></td>
+      </tr>
+      <tr>
+          <td border="1" rowspan="3" width="200" height="100"><p>Điểm bài báo cáo</p></td>
+          <td rowspan="2">Nội dung</td>
+          <td rowspan="2"</td>
+          <td border="1" rowspan="3"></td>
+      </tr>
+      <tr>
+      </tr>
+      <tr>
+          <td> Hình thức</td>
+          <td></td>
+      </tr>
+    </table>
+  </body>
+</html>
